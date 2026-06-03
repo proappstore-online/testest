@@ -13,7 +13,7 @@ const config: Config = {
         'on-surface': 'var(--color-on-surface)',
       },
       fontFamily: {
-        sans: 'var(--font-sans)',
+        sans: ['var(--font-sans)', 'system-ui', 'sans-serif'],
       },
     },
   },
