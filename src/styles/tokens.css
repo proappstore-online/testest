@@ -1,0 +1,19 @@
+/*
+  CarelyBay — Brand Design Tokens
+  ================================
+  FOUNDER: Replace placeholder values here.
+  See /DESIGN_TOKENS.md for the full guide.
+*/
+:root {
+  /* Colours */
+  --color-primary: #2D6A4F;
+  --color-primary-dark: #1B4332;
+  --color-accent: #F4A261;
+  --color-accent-dark: #E76F51;
+  --color-surface: #F9FAFB;
+  --color-on-surface: #111827;
+
+  /* Typography */
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Helvetica, Arial, sans-serif;
+}
